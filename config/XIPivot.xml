@@ -1,7 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<settings>
-    <setting name="overlays">CatsEyeXI</setting>
-    <setting name="cache_size">0</setting>
-    <setting name="cache_max_age">600</setting>
-    <setting name="cache_enabled">false</setting>
-</settings>
